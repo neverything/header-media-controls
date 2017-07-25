@@ -1,0 +1,33 @@
+{
+  "name": "neverything/beautify-wp-admin-pages",
+  "description": "Add additional controls to header media.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "required gmbh",
+      "email": "support@required.ch",
+      "homepage": "https://required.com",
+      "role": "Developer"
+    },
+    {
+      "name": "Silvan Hagen",
+      "email": "neverything@gmail.com",
+      "homepage": "https://silvanhagen.com",
+      "role": "Developer"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    },
+    {
+      "type": "composer",
+      "url": "https://packagist.org"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  }
+}
